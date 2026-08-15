@@ -1,18 +1,18 @@
-# Anime app
-Watch your favorite anime, manage your lists, track upcoming releases, download episodes, and enjoy a modern interface designed for anime fans.
+# Application Anime
+Regardez vos animes préférés, gérez vos listes, suivez les prochaines sorties, téléchargez des épisodes et profitez d'une interface moderne conçue pour les fans d'anime (application entièrement pour français).
 
--Built-in Player
- Watch anime directly within the app using a modern, smooth player.
+-Lecteur intégré
+ Regardez vos animes directement dans l'application grâce à un lecteur moderne et fluide.
 
--Schedule
- Check upcoming releases for your favorite series and never miss an episode.
+-Calendrier
+ Consultez les prochaines sorties de vos séries favorites et ne manquez aucun épisode.
 
--Favorites
- Add your favorite anime to your personal library for quick access.
+-Favoris
+ Ajoutez vos animes préférés à votre bibliothèque personnelle pour y accéder rapidement.
 
--Downloads
- Download episodes to watch offline, wherever you are.
+-Téléchargements
+ Téléchargez des épisodes pour les regarder hors ligne, où que vous soyez.
 
--Fast
- An optimized interface offering smooth, enjoyable navigation on Android.
- (Overall app performance depends entirely on your device and connection.)
+-Rapide
+ Une interface optimisée offrant une navigation fluide et agréable sur Android.
+ (Les performances globales de l'application dépendent entièrement de votre appareil et de votre connexion.)
