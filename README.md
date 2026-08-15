@@ -1,5 +1,5 @@
 # Application Anime
-Regardez vos animes préférés, gérez vos listes, suivez les prochaines sorties, téléchargez des épisodes et profitez d'une interface moderne conçue pour les fans d'anime (application entièrement pour français).
+Regardez vos animes préférés, gérez vos listes, suivez les prochaines sorties, téléchargez des épisodes et profitez d'une interface moderne conçue pour les fans d'anime (consacré uniquement pour les français).
 
 -Lecteur intégré
  Regardez vos animes directement dans l'application grâce à un lecteur moderne et fluide.
